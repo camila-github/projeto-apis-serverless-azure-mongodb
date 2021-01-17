@@ -75,7 +75,7 @@ https://docs.microsoft.com/pt-br/azure/azure-functions/functions-develop-vs-code
 #### MONGODB
 
 MongoDB é um software de banco de dados orientado a documentos livre. Classificado como um programa de banco de dados NoSQL, o MongoDB usa documentos semelhantes a JSON com esquemas. 
-Abaixo o comando para instalar o mongobd no projeto.
+Abaixo o comando para instalar o mongodb no projeto.
 
 ```
 npm i mongodb

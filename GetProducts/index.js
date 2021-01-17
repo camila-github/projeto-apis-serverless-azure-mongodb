@@ -1,7 +1,7 @@
 /*Cria conexão do Mongobd*/
 const createMongoClient = require('../shared/mongoClient');
 
-/*Função para listar os produtos */
+/*Função para listar os produtos*/
 module.exports = async function(context, req) {
     /*Fecha a conexão do Mongobd. Conexão Mongdb é assincrona, então foi utilizado o await*/
     const { client: MongoClient, closeConnectionFn } = await createMongoClient();

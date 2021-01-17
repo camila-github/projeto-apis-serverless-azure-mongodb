@@ -1,6 +1,8 @@
-## Treinamento Digital Innovation One - Curso BOOTCAMP - Desenvolvedor NodeJS 
+## Construindo APIs usando arquitetura ServerLess (Azure) com o recurso Azure functions e conexão com Mongobd.
 
-O intuito do projeto é a criação de uma API de produtos, onde será feito o deploy da API no servidor Cloud Azure da Microsoft utilizando o conceito de Serverless Computing. Sera utilizado o recurso Azure functions que terá conexão com banco de dados Mongobd(NoSQL).
+O projeto publicado é referente ao treinamento do Curso BootCamp Desenvolvedor NodeJS da Digital Innovation One (https://digitalinnovation.one).
+
+O intuito do projeto é criar uma API de produtos, onde será feito o deploy da API no servidor Cloud Azure da Microsoft utilizando o conceito de Serverless Computing. Sera utilizado o recurso Azure functions que terá conexão com banco de dados Mongobd(NoSQL).
 
 O Termo Serverless Computing é utilizado para representar o conceito de Cloud Computing, que significa 'Computação sem servidor'. O Serverless é orientado a eventos e se diferencia das outras abordagens de servidores físicos, virtuais e contêineres por sua infraestrutura.
 
@@ -191,25 +193,3 @@ Segue abaixo o link dos passos para realizar esse procedimento. No final será c
 ```
 https://docs.microsoft.com/pt-br/azure/azure-functions/create-first-function-vs-code-node#publish-the-project-to-azure
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

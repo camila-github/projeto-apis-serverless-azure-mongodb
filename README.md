@@ -135,8 +135,10 @@ Para criar a rota para listar os produtos, no arquivo 'function.json', informe o
 ```
 
 Ao parar e iniciar novamente as 'functions' com o comando abaixo, repare que a rota mudou.
-Comando para executar as 'functions'. Detalhe: Para parar , execute Ctrl + C
+Abaixo o comando para executar as 'functions'. Detalhe: Para parar, execute Ctrl + C
+```
 func host start
+```
 
 Rota criada, apenas com o metodo 'get', para lista de produtos
 ```

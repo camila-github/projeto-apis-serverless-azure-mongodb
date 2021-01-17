@@ -50,7 +50,7 @@ Rota: http://localhost:7071/api/products/{id}
 ```
 
 
-## Pre-Requisitos: 
+## Requisitos: 
 
 #### AZURE FUNCTIONS + AZURE FUNCTIONS CORE TOOLS: 
 

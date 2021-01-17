@@ -103,7 +103,9 @@ module.exports = async function(context, req) {
 ```
 
 Dentro do vscode, no terminal, digite o comando abaixo para testar a conexão.
+```
 func host start
+```
 
 Será iniciado todas as 'functions' do projeto, e será mostrado a execução na linha de comando, e quase no final da linha de comando, será apresentado o link com o numero da porta onde será executado o projeto localmente. No meu caso apresentou o link abaixo, se abrir o link no navegador ou no Insomnia, aparecerá a mensagem 'Hello Word'.
 
@@ -146,12 +148,11 @@ Functions:
 #### ROTA PESQUISA DO PRODUTO PELO ID (GET)
 
 Para criar uma nova rota tem que criar uma nova função, nesse caso execute o comando abaixo:
-func new
-Digite a opção 8 
-8. HTTP Tringger
-Informe o nome da função 
-GetProducts
-
+```
+Digite o comando: func new
+Digite a opção 8 (8. HTTP Tringger)
+Informe o nome da função: GetProducts
+```
 Para criar a rota para pesquisar o produto pelo id, no arquivo 'function.json', informe o comando abaixo, no objeto 'bindings'.
 Nesse trecho o que muda é o 'methods' que será mantido apenas o 'get', e será adicionado o 'route' com valor de 'products/{ id }'.
 

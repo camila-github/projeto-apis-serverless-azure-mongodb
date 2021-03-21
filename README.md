@@ -12,6 +12,7 @@
     * Deploy da API no servidor da Azure
  
  + O projeto publicado é referente ao treinamento do Curso BootCamp Desenvolvedor NodeJS da Digital Innovation One.
+   
    [https://digitalinnovation.one.](https://digitalinnovation.one.)
 
 ## Funções criadas:

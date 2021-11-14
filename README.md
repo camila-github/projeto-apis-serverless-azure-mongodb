@@ -5,11 +5,11 @@
 + O Termo Serverless Computing é utilizado para representar o conceito de Cloud Computing, que significa 'Computação sem servidor'. O Serverless é orientado a eventos e se diferencia das outras abordagens de servidores físicos, virtuais e contêineres por sua infraestrutura.
 
 + No projeto foi aplicado conceitos:
-    * Criação de estrutura de pastas padrão Azure.
-    * Criação de Conexão com banco de dados Mongodb(NoSQL).
-    * Criação de Rotas seguindo padrões Rest.
-    * Criação de functions utilizando o Azure Functions.
-    * Deploy da API no servidor da Azure.
+    - Criação de estrutura de pastas padrão Azure.
+    - Criação de Conexão com banco de dados Mongodb(NoSQL).
+    - Criação de Rotas seguindo padrões Rest.
+    - Criação de functions utilizando o Azure Functions.
+    - Deploy da API no servidor da Azure.
  
  + O projeto publicado é referente ao treinamento do Curso BootCamp Desenvolvedor NodeJS da Digital Innovation One.
    
